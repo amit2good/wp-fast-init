@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+1d3ebeab6add06a9a4e3df4d81db32c92ec7e49e refs/remotes/origin/fordyceadam/issue27
+dab3b72053fba5d255df3cd883b36e7ec4858a63 refs/remotes/origin/main
+6442b79644b757e710c15c4b83e7358102796059 refs/remotes/origin/project
